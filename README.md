@@ -1,5 +1,3 @@
-# REVERSI JS STYLE
+# Reversi
 
-To run the mocha tests, use the following command in the terminal (in the top level directory of this file:)
-
-`./node_modules/mocha/bin/mocha`
+Apparently I'm the only person who never played [Reversi](http://en.wikipedia.org/wiki/Reversi) growing up. Regardless, here's a Javascript version of the game, also known as Othello.
